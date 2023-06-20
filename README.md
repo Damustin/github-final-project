@@ -6,3 +6,6 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+
+en esta app de pagos podras pagar todas tus cuentas
